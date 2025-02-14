@@ -2,8 +2,10 @@
 
 **Video Frame Extractor** is a desktop application developed in Python using PyQt5. It allows extracting all frames from a video using ffmpeg. The interface is multilingual, displaying text in English by default, but it automatically adapts to Spanish, German, French, Portuguese, or Russian based on the system language.
 
-![Screenshot of Base menu](screenshots/screenshot1.png)
-![Screenshot of Extractubg](screenshots/screenshot2.png)
+<p align="center">
+  <img src="screenshots/screenshot1.png" alt="Screenshot of Base menu" width="45%">
+  <img src="screenshots/screenshot2.png" alt="Screenshot of Extracting" width="45%">
+</p>
 
 ## Features
 
