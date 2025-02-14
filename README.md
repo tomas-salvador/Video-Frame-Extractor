@@ -23,7 +23,7 @@
 
 1. **Clone or download the repository:**
    ```bash
-   git clone https://github.com/tomas-salvador/convert_video_to_frames
+   git clone https://github.com/tomas-salvador/Video-Frame-Extractor
 2. **Install the required dependencies:**
    ```bash
    pip install PyQt5
@@ -34,7 +34,7 @@
 1. **Run the application:**
 
    ```bash
-   python convert_video_to_frames.py
+   python main.py
 2. **Select the video:**
    Click the "Select Video" button (or its equivalent in your language) and choose the desired video file.
 3. **Start extraction:**
